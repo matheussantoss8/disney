@@ -34,3 +34,6 @@ npm install
 
 # Inicie o projeto
 npm start
+
+# Para acessar o site
+https://disney-api-sooty.vercel.app/
